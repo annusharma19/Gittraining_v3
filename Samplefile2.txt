@@ -1,1 +1,2 @@
 This is sample file 2
+This is git stash lecture in file 2
